@@ -1,10 +1,11 @@
-## PPAI - Políticas Públicas para Inteligência Artificial(see English version below)
+# PPAI - Políticas Públicas para Inteligência Artificial
+(see English version below)
 
 ## Organização do repositório
 O repositório encontra-se dividido principalmente em duas grandes pastas:
-*Estratégias de investimento*
-*Políticas públicas e regulação*
-*Brasil*
+* Estratégias de investimento
+* Políticas públicas e regulação
+* Brasil
 
 ### Estratégias de investimento
 Divido em diversos países, cada um com os documentos e links que discutem a estratégia de investimento em IA daquele país. O read.me da pasta é uma análise dos documentos inclusos, com highlights e pontos de atenção.
